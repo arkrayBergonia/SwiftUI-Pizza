@@ -286,14 +286,14 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"Huli Pizza/Preview Content\"";
-				DEVELOPMENT_TEAM = Q3EJJ6M7CU;
+				DEVELOPMENT_TEAM = 6TQ593XJY7;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = "Huli Pizza/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.XiApps.Huli-Pizza";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.ArkrayPHM.Huli-Pizza";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -306,14 +306,14 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"Huli Pizza/Preview Content\"";
-				DEVELOPMENT_TEAM = Q3EJJ6M7CU;
+				DEVELOPMENT_TEAM = 6TQ593XJY7;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = "Huli Pizza/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.XiApps.Huli-Pizza";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.ArkrayPHM.Huli-Pizza";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
